@@ -1,7 +1,12 @@
 aid: fifth-dimension
 name: Fifth Dimension
-description: Fifth Dimension is a company surfaced as a portfolio company of seedcamp and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Fifth Dimension AI is a London-based decision intelligence platform for real-assets investors
+  and asset managers. Its AI co-worker, Ellie, automates document-heavy real estate workflows — deal screening,
+  underwriting, due diligence, and lease and investment analysis — by reading email bodies and PDF attachments
+  and returning transparent, sourced, auditable reasoning rather than black-box answers. Founded in 2023 by
+  Johnny Morris and Dr. Kate Jarvis, the platform integrates with existing property management, CRM, data room,
+  and financial systems and preserves each fund's institutional knowledge and investment criteria. The company
+  is backed by HV Capital, Seedcamp, Speedinvest and Anthemis, and raised a $26M Series A in 2026.
 url: https://raw.githubusercontent.com/api-evangelist/fifth-dimension/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +14,30 @@ x-backed-by:
 - seedcamp
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.fifthdimensionai.com/wp-content/themes/bravestar/images/cover.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Artificial Intelligence
+- Real Estate
+- PropTech
+- Decision Intelligence
+- Document Processing
+- Asset Management
+- Generative AI
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +46,27 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://fifthdimensionai.com
+  url: https://www.fifthdimensionai.com/
+- type: Blog
+  url: https://www.fifthdimensionai.com/blogs/
+- type: Pricing
+  url: https://www.fifthdimensionai.com/pricing/
+- type: Support
+  url: https://www.fifthdimensionai.com/contact/
+- type: TermsOfService
+  url: https://www.fifthdimensionai.com/terms/
+- type: PrivacyPolicy
+  url: https://www.fifthdimensionai.com/privacy/
+- type: Compliance
+  url: https://www.fifthdimensionai.com/security/
+- type: TrustCenter
+  url: security/fifth-dimension-trust-center.yml
+- type: DomainSecurity
+  url: security/fifth-dimension-domain-security.yml
+- type: LLMsTxt
+  url: llms/fifth-dimension-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,23 @@
+# Fifth Dimension AI
+
+> Fifth Dimension AI is a London-based decision intelligence platform for real-assets investors and asset managers. Its AI co-worker, Ellie, automates document-heavy real estate workflows — deal screening, underwriting, due diligence, and lease and investment analysis — by reading email bodies and PDF attachments and returning transparent, sourced, auditable reasoning rather than black-box answers. Founded in 2023 by Johnny Morris and Dr. Kate Jarvis; backed by HV Capital, Seedcamp, Speedinvest and Anthemis.
+
+This is an API Evangelist network company profile. Fifth Dimension AI is a SaaS product company; at the time of writing it publishes no public developer API, SDK, or OpenAPI. The links below are its public product, company, and trust surfaces.
+
+## Product
+- [Fifth Dimension AI](https://www.fifthdimensionai.com/): Decision intelligence platform for real assets; the Ellie AI co-worker.
+- [Pricing](https://www.fifthdimensionai.com/pricing/): Per-seat platform + data pipelines + skills packs model; annual contracts.
+- [Case Studies](https://www.fifthdimensionai.com/case-studies/): Customer results across real estate investment and asset management.
+
+## Company
+- [Blog](https://www.fifthdimensionai.com/blogs/): Articles on AI in real estate and asset management.
+- [News](https://www.fifthdimensionai.com/news/): Company announcements, including the $26M Series A.
+- [Resources](https://www.fifthdimensionai.com/resources/): Webinars and guides.
+- [Careers](https://careers.fifthdimensionai.com/): Open roles.
+- [Contact](https://www.fifthdimensionai.com/contact/): Get in touch / book a call.
+
+## Security & Trust
+- [Security](https://www.fifthdimensionai.com/security/): SOC 2 Type II, ISO 27001, GDPR compliance posture.
+- [Trust Center](https://www.fifthdimensionai.com/trust-center/): Subprocessor list, acceptable use, SLA, information security policy.
+- [Terms of Service](https://www.fifthdimensionai.com/terms/)
+- [Privacy Policy](https://www.fifthdimensionai.com/privacy/)
