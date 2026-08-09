@@ -3,10 +3,11 @@ name: Fifth Dimension
 description: Fifth Dimension AI is a London-based decision intelligence platform for real-assets investors
   and asset managers. Its AI co-worker, Ellie, automates document-heavy real estate workflows — deal screening,
   underwriting, due diligence, and lease and investment analysis — by reading email bodies and PDF attachments
-  and returning transparent, sourced, auditable reasoning rather than black-box answers. Founded in 2023 by
-  Johnny Morris and Dr. Kate Jarvis, the platform integrates with existing property management, CRM, data room,
-  and financial systems and preserves each fund's institutional knowledge and investment criteria. The company
-  is backed by HV Capital, Seedcamp, Speedinvest and Anthemis, and raised a $26M Series A in 2026.
+  and returning transparent, sourced, auditable reasoning rather than black-box answers. Founded in 2023
+  by Johnny Morris and Dr. Kate Jarvis, the platform integrates with existing property management, CRM,
+  data room, and financial systems and preserves each fund's institutional knowledge and investment criteria.
+  The company is backed by HV Capital, Seedcamp, Speedinvest and Anthemis, and raised a $26M Series A
+  in 2026.
 url: https://raw.githubusercontent.com/api-evangelist/fifth-dimension/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -28,7 +29,7 @@ accessModel:
 image: https://www.fifthdimensionai.com/wp-content/themes/bravestar/images/cover.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-19'
+modified: '2026-08-08'
 tags:
 - Company
 - Artificial Intelligence
@@ -65,8 +66,14 @@ common:
   url: security/fifth-dimension-domain-security.yml
 - type: LLMsTxt
   url: llms/fifth-dimension-llms.txt
+- type: Conformance
+  url: conformance/fifth-dimension-conformance.yml
+- type: LinkedIn
+  url: https://www.linkedin.com/company/5dai/
 x-enrichment:
   date: '2026-07-19'
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-merged-from:
+- fifth-dimension-ai
