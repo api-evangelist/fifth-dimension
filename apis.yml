@@ -44,7 +44,7 @@ modified: '2026-08-08'
 tags:
 - Company
 - Artificial Intelligence
-- Real-Estate
+- Real Estate
 - PropTech
 - Decision Intelligence
 - Document Processing
@@ -59,6 +59,7 @@ tags_raw:
 - Document Processing
 - Asset Management
 - Generative AI
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
