@@ -1,0 +1,40 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://www.fifthdimensionai.com/pricing
+sources:
+- https://www.fifthdimensionai.com/pricing
+- https://www.fifthdimensionai.com/pricing/
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: per-seat
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: Sales-led pricing page with starting prices for two tiers; both CTAs are 'Talk to us'.
+plan_count: 2
+currency: USD
+plans:
+- name: Base
+  price_text: From $139 per user/month
+  price: 139
+  currency: USD
+  period: month
+  unit: user
+  included_quota: Fifth Dimension's AI agent optimised for real estate; unlimited compute, document analysis
+    and memory; security infrastructure; custom skills; service and support; no token limits or throttling.
+    Billed annually, $20,000 annual minimum
+- name: Enterprise
+  price_text: From $50,000/year
+  price: 50000
+  currency: USD
+  period: year
+  included_quota: Everything in Base; broader rollout; data connections; enterprise service and implementation
+    support; security and deployment options. Scales with seats, data volume, data connections
+rate_limit_statements:
+- No token limits or throttling
